@@ -25,63 +25,58 @@ body{
 
 .laptop-wrapper {
     position: absolute;
-    top: 50px;
+    top: 550px;
     left: 0px;
 }
 
 .laptop {
-    width: 126px;
-    
+    width: 100%;    
 }
 
 .mic-wrapper {
     position: absolute;
-    top: 127px;
+    top: 650px;
     left: 0px;
 }
 
 .mic {
-    width: 186px;
-    
+    width: 100%;    
 }
 
 .badge-wrapper {
     position: absolute;
-    top: 526px;
+    top: 750px;
     left: 0px;
 }
 
 .badge {
-    width: 94px;
-    
+    width: 100%;    
 }
 
 .drink-wrapper {
     position: absolute;
-    top: 181px;
+    top: 850px;
     left: 0px;
 }
 
 .drink {
-    width: 217px;
-    
+    width: 100%;    
 }
 
 .food-wrapper {
     position: absolute;
-    top: 545px;
+    top: 950px;
     left: 0px;
     
 }
 
 .food {
-    width: 241px;
-    
+    width: 100%;    
 }
 
 .note-wrapper {
     position: absolute;
-    top: 545px;
+    top: 1050px;
     left: 0px;
 }
 
